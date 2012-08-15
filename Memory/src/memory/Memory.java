@@ -4,6 +4,9 @@
  */
 package memory;
 
+import java.util.*;
+import java.io.*;
+
 /**
  *
  * @author hkimajanpi
@@ -13,7 +16,12 @@ public class Memory {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public static void main(String[] args) throws Exception {
+               
+        Board memory = new Board();
+        
+        System.out.println(memory);
+        memory.shuffleCards();
+        System.out.println(memory);
     }
 }
