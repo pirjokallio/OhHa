@@ -5,11 +5,11 @@ Pigviini
 Juna
 Kirja
 Poni
-Pöytä
+Tyyny
 Tuoli
 Aurinko
 Kuu
-Sänky
+Lamppu
 Kissa
 Auto
 Kaivuri
@@ -20,11 +20,11 @@ Pigviini
 Juna
 Kirja
 Poni
-Pöytä
+Tyyny
 Tuoli
 Aurinko
 Kuu
-Sänky
+Lamppu
 Kissa
 Auto
 Kaivuri
