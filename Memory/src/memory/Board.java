@@ -42,6 +42,7 @@ public class Board {
         for (Card card : memory) {
             Collections.shuffle(memory);
         }
+        System.out.println("lol");
         return memory;
     }
 //
